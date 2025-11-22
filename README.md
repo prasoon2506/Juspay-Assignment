@@ -1,4 +1,4 @@
-# 📊 Juspay Dashboard
+# 📊 Prasoon Gupta - Juspay Dashboard
 
 ![React](https://img.shields.io/badge/React-18.0+-blue.svg)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow.svg)
