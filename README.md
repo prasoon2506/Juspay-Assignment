@@ -10,7 +10,7 @@
 
 ## 🌟 Live Demo
 
-🚀 **[View Live Dashboard](https://juspay-dashboard-two.vercel.app/)**
+🚀 **[View Live Dashboard](https://juspay-assignment-deq2vxva1-prasoon2506s-projects.vercel.app/)**
  
 
 ![Dashboard Preview](./public/preview.png) <!-- Add a screenshot of your dashboard here -->
@@ -64,7 +64,7 @@ Ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/sahilbakshi3/Juspay-dashboard.git
+   git clone https://github.com/prasoon2506/Juspay-Assignment.git
    cd Juspay-dashboard
    ```
 
@@ -218,7 +218,7 @@ npm run build
 1. Install gh-pages: `npm install --save-dev gh-pages`
 2. Add deployment script to `package.json`:
    ```json
-   "homepage": "https://sahilbakshi3.github.io/Juspay-dashboard",
+   "homepage": "https://github.com/prasoon2506/Juspay-Assignment",
    "scripts": {
      "predeploy": "npm run build",
      "deploy": "gh-pages -d build"
@@ -278,8 +278,6 @@ If you encounter any issues or have suggestions:
 1. **Check existing issues** - Your question might already be answered
 2. **Create a new issue** - Use our issue templates for bug reports or feature requests
 3. **Provide details** - Include screenshots, error messages, and steps to reproduce
-
-📧 **Contact:** [Open an issue](https://github.com/sahilbakshi3/Juspay-dashboard/issues) on GitHub
 
 ## 📄 License
 
