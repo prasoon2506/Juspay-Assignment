@@ -287,7 +287,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Prasoon Gupta**
 - GitHub: [@prasoon2506](https://github.com/prasoon2506)
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/prasoon-krishna-gupta-9971a1256/) *(Add your actual LinkedIn profile)*
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/prasoon-krishna-gupta-9971a1256/) 
 
 ## 🙏 Acknowledgments
 
