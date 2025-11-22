@@ -85,7 +85,7 @@ Ensure you have the following installed:
 ## 📁 Project Structure
 
 ```
-Juspay-dashboard/
+Prasoon Gupta - Juspay-dashboard/
 ├── 📁 public/                          # Static public assets
 │   ├── index.html                      # Main HTML template
 │   ├── logo.png                        # Application logo
